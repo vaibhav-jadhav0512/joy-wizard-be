@@ -1,4 +1,4 @@
-package com.kunal52.springandfirebaseauth;
+package com.springandfirebaseauth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
